@@ -1,0 +1,25 @@
+git clone
+git init
+修改git里面的文件(在哪个文件里面)
+git add _-A
+git commit -m '内容'
+git push
+
+分支内容部分
+git branch()
+git branch (new_name)创建分支
+git checkout (new_name)切换分支
+git add -A
+git commit -m '内容'
+git push
+git push --set-upstream origin dev_Chen
+
+本地文件操作  (在那个文件里面)
+ git init 
+git add -A
+git commit -m '内容'
+git remote add origin  (url实例) https://github.com/chen892449405/git-.git
+git push -u origin (分支名12)master
+
+
+git reflog(版本号)
